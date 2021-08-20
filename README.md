@@ -15,7 +15,7 @@ Sou desenvolvedor front-end :computer:. Super apaixonado pelo ramo da programaç
 <br/> :email: &nbsp; Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diogo--Miranda-007acc?style=flat&labelColor=007acc&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-miranda-2233657a/)
-[![Facebook Badge](https://img.shields.io/badge/-Diogo--Miranda-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/diogo.s.miranda.5) [![Mail Badge](https://img.shields.io/badge/-@diogomiranda.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/diogomiranda.dev/) [![Mail Badge](https://img.shields.io/badge/-Diogo--Miranda-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:diogosminfor@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Diogo--Miranda-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/diogo.s.miranda.5) [![Mail Badge](https://img.shields.io/badge/-@diogomiranda.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/diogomiranda.dev/) [![Mail Badge](https://img.shields.io/badge/-diogosminfor@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:diogosminfor@gmail.com)
 
 
 #### Top Tecnologias
