@@ -2,7 +2,7 @@
 
 ## Opa pessoal 👋
 
-Olá, me chamo <strong> Diogo Miranda </strong>, tenho 31 anos. Sou Desenvolvedor a  mais de 7 anos. Hoje em dia atuo como Front-end e me arrisco um pouco no Back-end (em busca do Full Stack 😎). Sou fascinado pela programação e o que se pode fazer com essa arte de codificar 💻. Adora novos desafios e estou sempre estudando para ir para o proximo nível.
+Olá, me chamo <strong> Diogo Miranda </strong>, tenho 31 anos. Sou Desenvolvedor a  mais de 7 anos. Hoje em dia atuo como Front-end e me arrisco um pouco no Back-end (em busca do Full Stack 😎). Sou fascinado pela programação e o que se pode fazer com essa arte de codificar 💻. Adoro novos desafios e estou sempre estudando para ir para o proximo nível.
 
 Atualmente estou trabalhando como desenvolvedor Front-end sênior na empresa Energisa! Nunca estive tão realizado como estou agora, trabalhando com o que mais amo 💙.
 
