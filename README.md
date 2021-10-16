@@ -1,5 +1,3 @@
-<img src="" width="100%" />
-
 # Diogo Miranda
 
 ## Opa pessoal 👋
