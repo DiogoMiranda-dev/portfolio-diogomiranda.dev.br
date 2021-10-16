@@ -4,7 +4,11 @@
 
 ## Opa pessoal 👋
 
-Sou desenvolvedor front-end :computer:. Super apaixonado pelo ramo da programação, atualmente estudando cada vez mais!
+Olá, me chamo <strong> Diogo Miranda </strong>, tenho 31 anos. Sou Desenvolvedor a  mais de 7 anos. Hoje em dia atuo como Front-end e me arrisco um pouco no Back-end (em busca do Full Stack 😎). Sou fascinado pela programação e o que se pode fazer com essa arte de codificar 💻. Adora novos desafios e estou sempre estudando para ir para o proximo nível.
+
+Atualmente estou trabalhando como desenvolvedor Front-end sênior na empresa Energisa! Nunca estive tão realizado como estou agora, trabalhando com o que mais amo 💙.
+
+Agora comentando um pouco sobre minha personalidade. Sou fascinado por games! (Gamer desde meus 7 anos haha). Adoro assistir séries, filmes e já fui um bom jogador de futebol hoje em dia só no FIFA kkkkk.
 
 :rocket: &nbsp; Estou trabalhando como desenvolvedor front-end na **Energisa**
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
